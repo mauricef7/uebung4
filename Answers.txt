@@ -1,0 +1,32 @@
+Aufgabe 3:
+-Falsch 
+-Richtig
+-Falsch
+-Falsch
+
+Aufgabe 4:
+-Falsch 
+-Richtig
+-Falsch
+-Falsch
+
+Aufgabe 5:
+-Abstrakte Klasse
+-Rolle
+-Aggregation
+-Klassenname
+-Klasse
+-Generalisierung
+-Gerichtete Assoziation
+-Attributname
+-Multiplizität 
+-Komposition
+-Assoziation
+-Methoden
+-Stereotyp
+
+Aufgabe 6:
+-Falsch
+-Richtig 
+-Richtig
+-Richtig
